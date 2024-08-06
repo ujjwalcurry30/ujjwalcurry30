@@ -1,8 +1,5 @@
-[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGIiBZK6TaIL6tqAyxZw4-RfswwwO4O362Iw&usqp=CAU)(
 <h1 align="center">Hi 👋, I'm Ujjwal Sigh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<image align = “right” alt = “Coding” width = “400” src = “https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGIiBZK6TaIL6tqAyxZw4-RfswwwO4O362Iw&usqp=CAU”
-
 - 🔭 I’m currently working on **Firebase , AWS ,Goggle Cloud**
 
 - 🌱 I’m currently learning **MERN Stack**
