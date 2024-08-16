@@ -5,6 +5,8 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
+- 👨‍💻 All of my projects are available at [file:///Users/ujjwalsmac/YouTube/Portfolio/portfolio.html](file:///Users/ujjwalsmac/YouTube/Portfolio/portfolio.html)
+
 - 💬 Ask me about **Python , HTML/CSS , Javascript**
 
 - 📫 How to reach me **ujjwalcurry30@gmail.com**
