@@ -10,7 +10,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ujjwalsingh_11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ujjwalsingh_11" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ujjwal singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ujjwal singh" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ujjwal singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ujjwal Singh" height="30" width="40" /></a>
 <a href="https://instagram.com/ujjwal.singh_11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ujjwal.singh_11" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ujjwalsingh user8768xy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ujjwalsingh user8768xy" height="30" width="40" /></a>
 </p>
