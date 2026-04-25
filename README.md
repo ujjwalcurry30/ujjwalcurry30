@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ujjwal Singh</h1>
+[<h1 align="center">Hi 👋, I'm Ujjwal Singh</h1>
 <h3 align="center">Hey there! 👋 I'm Ujjwal Singh,a Computer Science Engineering student with a strong passion for software development. I have expertise in various languages and technologies, with a solid understanding of React, Node.js, Express,js, and both SQL and NoSQL databases. Currently, I'm diving deep into Data Structure and Algorithm to further enhance my skills and knowledge.</h3>
 
 - 🌱 I’m currently learning **DSA and System Design**
@@ -21,3 +21,4 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ujjwalcurry30&show_icons=true&theme=tokyonight&hide_border=true&locale=en&layout=compact" alt="ujjwalcurry30" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ujjwalcurry30&theme=highcontrast" alt="ujjwalcurry30" /></p>
+](https://www.linkedin.com/in/ujjwal-singh-57b0b7262/)
